@@ -6,7 +6,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![License](https://img.shields.io/badge/License-Academic-blue?style=flat-square)
-##YOUTUBE LINK- 
+YOUTUBE LINK- 
 https://youtu.be/yuj1Vgep2vI
 
 ---
