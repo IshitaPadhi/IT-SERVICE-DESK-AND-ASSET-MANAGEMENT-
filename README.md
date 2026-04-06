@@ -45,7 +45,7 @@ The database backend uses **12 relational tables in 3NF**, automated via **3 PL/
 | View own tickets | ✅ | ✅ | ✅ |
 | Update ticket status | ✅ | ✅ | ❌ |
 | Post comments | ✅ | ✅ | ❌ |
-| Asset management | ✅ | ❌ | ❌ |
+| Asset management | ✅ | ✅ | ❌ |
 | SLA dashboard | ✅ | ❌ | ❌ |
 
 ### 📊 Analytics Dashboard
